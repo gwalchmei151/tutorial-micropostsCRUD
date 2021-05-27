@@ -1,0 +1,11 @@
+.delete {
+  color: #ea39b8;
+}
+
+.delete:hover {
+  color: #ffc107;
+}
+
+.form-label {
+  color: #32fbe2;
+}
